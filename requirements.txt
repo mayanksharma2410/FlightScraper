@@ -1,0 +1,6 @@
+streamlit
+pandas
+bs4
+selenium
+webdriver_manager
+pymongo
