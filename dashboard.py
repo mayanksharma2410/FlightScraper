@@ -19,7 +19,7 @@ This tool displays **arrivals** and **departures** for major airports in Pakista
 """)
 
 # City selection
-city = st.selectbox("Select City", ["Islamabad", "Karachi", "Faisalabad", "Lahore", "Peshawar"])
+city = st.selectbox("Select City", ["Islamabad", "Karachi", "Faisalabad", "Lahore", "Peshawar", "Baku", "Kabul"])
 
 # Direction selection
 flight_type = st.radio("Select Flight Type", ["Arrivals", "Departures"])
